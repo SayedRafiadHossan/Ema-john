@@ -1,0 +1,50 @@
+[
+    {
+      "id": "633509a1a84a340ae4e414e5",
+      "title": "Jumping Jacks",
+      "time": "30",
+      "age": "20-30",
+      "discribe": "Since jumping jacks only require your body weight, they're also a great cardiovascular exercise that you can do anywhere and anytime. In addition to increasing your heart rate and improving muscular strength and endurance, jumping jacks are also a fantastic way to burn calories.",
+      "img": "https://i0.wp.com/physicalculturestudy.com/wp-content/uploads/2015/02/exercise_jumping-jack.jpg?ssl=1"
+    },
+    {
+      "id": "633509a1fded51d8ec45e6a5",
+      "title": "Incline push-ups",
+      "time": "20",
+      "age": "20-35",
+      "discribe": "Incline pushups are a great way to start a pushup routine if you have trouble doing the basic pushup. The exercise still targets the main chest muscles (the pectoralis major and minor) but puts far less stress on your elbows and significantly reduces the amount of body weight you are lifting.",
+      "img": "https://media.istockphoto.com/vectors/woman-doing-incline-push-ups-exercise-vector-id1407481158?k=20&m=1407481158&s=612x612&w=0&h=AFlr46iVboHyIcdEZnyNIIVRNg0VPZDKVthl_xzw0D8="
+    },
+    {
+      "id": "633509a1d6abb83fdcc4be21",
+      "title": "Push-ups",
+      "time": "25",
+      "age": "20-30",
+      "discribe": "There is no limit to how many push-ups one can do in a day. Many people do more than 300 push-ups a day. But for an average person, even 50 to 100 push-ups should be enough to maintain a good upper body, provided it is done properly. If you want to gain benefit from this form of exercise then do it in the right way.",
+      "img": "https://i2.wp.com/physicalculturestudy.com/wp-content/uploads/2018/01/pushup.png"
+    },
+    {
+      "id": "633509a11c46a886d4454a9e",
+      "title": "Backward Lunch",
+      "time": "15",
+      "age": "20-30",
+      "discribe": "While forward and reverse lunges both work the glutes, legs and abs, each emphasizes different leg muscles. Reverse lunges hone in on the hamstrings (back of thighs) and glute max (your meatiest glute muscle), whereas forward lunges focus more on the quads (front of thighs).",
+      "img": "https://i.pinimg.com/originals/ea/6e/8a/ea6e8a463a5cc4c4b8d813eb8cd2e80e.png"
+    },
+    {
+      "id": "633509a18f393d66f62d78c8",
+      "title": "Hell Touch",
+      "time": "15",
+      "age": "20-35",
+      "discribe": "The heel touches exercise is first a foremost an abs exercise. It targets your main core muscles, including your transverse abdominis, rectus abdominis and obliques, which run along the sides of your torso.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyCC6HCCsJqEZXbG1LBWBNwk6ccUfHP2kHiVmyqbXQSVPqovYHfWaEMShH6aKehjcNuHM&usqp=CAU"
+    },
+    {
+      "id": "633509a12ac4d4c5dfa8f08f",
+      "title": "Chest Stretch",
+      "time": "30",
+      "age": "20-35",
+      "discribe": "Chest Stretches have some important benefits for the body. Regularly performing Chest Stretches can help to increase flexibility and mobility in the upper body. As well, Chest Stretches can help to alleviate pain or tightness associated with poor posture.",
+      "img": "https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Chest_Stretch_F_WorkoutLabs.png"
+    }
+  ]
