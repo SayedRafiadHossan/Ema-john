@@ -14,5 +14,7 @@ userCOntext provide AuthCOntext
 4. Make sure you set the children
 5. Export UthContext to be used inside useCOntext hook
 6. get form data
+7. getAuth in the UserContext
+8.
 
 */
