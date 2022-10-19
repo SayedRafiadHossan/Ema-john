@@ -12,6 +12,7 @@ userCOntext provide AuthCOntext
 2. Create AuthContext
 3. Set AuthContext.Provider
 4. Make sure you set the children
-
+5. Export UthContext to be used inside useCOntext hook
+6. get form data
 
 */
